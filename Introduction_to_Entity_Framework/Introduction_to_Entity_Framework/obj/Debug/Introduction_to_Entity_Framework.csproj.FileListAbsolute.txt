@@ -1,0 +1,10 @@
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_Entity_Framework\Introduction_to_Entity_Framework\bin\Debug\Introduction_to_Entity_Framework.exe.config
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_Entity_Framework\Introduction_to_Entity_Framework\obj\Debug\Introduction_to_Entity_Framework.csprojResolveAssemblyReference.cache
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_Entity_Framework\Introduction_to_Entity_Framework\bin\Debug\Introduction_to_Entity_Framework.exe
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_Entity_Framework\Introduction_to_Entity_Framework\bin\Debug\Introduction_to_Entity_Framework.pdb
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_Entity_Framework\Introduction_to_Entity_Framework\bin\Debug\EntityFramework.dll
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_Entity_Framework\Introduction_to_Entity_Framework\bin\Debug\EntityFramework.SqlServer.dll
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_Entity_Framework\Introduction_to_Entity_Framework\bin\Debug\EntityFramework.xml
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_Entity_Framework\Introduction_to_Entity_Framework\bin\Debug\EntityFramework.SqlServer.xml
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_Entity_Framework\Introduction_to_Entity_Framework\obj\Debug\Introduction_to_Entity_Framework.exe
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_Entity_Framework\Introduction_to_Entity_Framework\obj\Debug\Introduction_to_Entity_Framework.pdb

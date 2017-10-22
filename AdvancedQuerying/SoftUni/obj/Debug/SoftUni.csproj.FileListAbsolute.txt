@@ -1,0 +1,13 @@
+G:\SoftUni\Databases Advanced - Entity Framework\BookShopSystem\SoftUni\bin\Debug\SoftUni.exe.config
+G:\SoftUni\Databases Advanced - Entity Framework\BookShopSystem\SoftUni\bin\Debug\SoftUni.exe
+G:\SoftUni\Databases Advanced - Entity Framework\BookShopSystem\SoftUni\bin\Debug\SoftUni.pdb
+G:\SoftUni\Databases Advanced - Entity Framework\BookShopSystem\SoftUni\bin\Debug\EntityFramework.dll
+G:\SoftUni\Databases Advanced - Entity Framework\BookShopSystem\SoftUni\bin\Debug\EntityFramework.SqlServer.dll
+G:\SoftUni\Databases Advanced - Entity Framework\BookShopSystem\SoftUni\bin\Debug\EntityFramework.xml
+G:\SoftUni\Databases Advanced - Entity Framework\BookShopSystem\SoftUni\bin\Debug\EntityFramework.SqlServer.xml
+G:\SoftUni\Databases Advanced - Entity Framework\BookShopSystem\SoftUni\obj\Debug\SoftUni.csprojResolveAssemblyReference.cache
+G:\SoftUni\Databases Advanced - Entity Framework\BookShopSystem\SoftUni\obj\Debug\SoftUni.exe
+G:\SoftUni\Databases Advanced - Entity Framework\BookShopSystem\SoftUni\obj\Debug\SoftUni.pdb
+E:\SoftUni\Databases Advanced - Entity Framework\AdvancedQuerying\SoftUni\bin\Debug\SoftUni.exe.config
+E:\SoftUni\Databases Advanced - Entity Framework\AdvancedQuerying\SoftUni\obj\Debug\SoftUni.exe
+E:\SoftUni\Databases Advanced - Entity Framework\AdvancedQuerying\SoftUni\obj\Debug\SoftUni.pdb

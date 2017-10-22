@@ -1,0 +1,14 @@
+G:\SoftUni\Databases Advanced - Entity Framework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Service\bin\Debug\PhotoShare.Service.dll.config
+G:\SoftUni\Databases Advanced - Entity Framework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Service\bin\Debug\PhotoShare.Service.dll
+G:\SoftUni\Databases Advanced - Entity Framework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Service\bin\Debug\PhotoShare.Service.pdb
+G:\SoftUni\Databases Advanced - Entity Framework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Service\bin\Debug\EntityFramework.dll
+G:\SoftUni\Databases Advanced - Entity Framework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Service\bin\Debug\EntityFramework.SqlServer.dll
+G:\SoftUni\Databases Advanced - Entity Framework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Service\bin\Debug\PhotoShare.Data.dll
+G:\SoftUni\Databases Advanced - Entity Framework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Service\bin\Debug\PhotoShare.Models.dll
+G:\SoftUni\Databases Advanced - Entity Framework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Service\bin\Debug\PhotoShare.Data.pdb
+G:\SoftUni\Databases Advanced - Entity Framework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Service\bin\Debug\PhotoShare.Models.pdb
+G:\SoftUni\Databases Advanced - Entity Framework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Service\bin\Debug\EntityFramework.xml
+G:\SoftUni\Databases Advanced - Entity Framework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Service\bin\Debug\EntityFramework.SqlServer.xml
+G:\SoftUni\Databases Advanced - Entity Framework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Service\obj\Debug\PhotoShare.Service.csprojResolveAssemblyReference.cache
+G:\SoftUni\Databases Advanced - Entity Framework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Service\obj\Debug\PhotoShare.Service.dll
+G:\SoftUni\Databases Advanced - Entity Framework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Service\obj\Debug\PhotoShare.Service.pdb

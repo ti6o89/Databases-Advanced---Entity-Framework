@@ -1,0 +1,10 @@
+G:\SoftUni\Databases Advanced - Entity Framework\CodeFirst(Advanced)\LocalStore\bin\Debug\LocalStore.exe.config
+G:\SoftUni\Databases Advanced - Entity Framework\CodeFirst(Advanced)\LocalStore\bin\Debug\LocalStore.exe
+G:\SoftUni\Databases Advanced - Entity Framework\CodeFirst(Advanced)\LocalStore\bin\Debug\LocalStore.pdb
+G:\SoftUni\Databases Advanced - Entity Framework\CodeFirst(Advanced)\LocalStore\bin\Debug\EntityFramework.dll
+G:\SoftUni\Databases Advanced - Entity Framework\CodeFirst(Advanced)\LocalStore\bin\Debug\EntityFramework.SqlServer.dll
+G:\SoftUni\Databases Advanced - Entity Framework\CodeFirst(Advanced)\LocalStore\bin\Debug\EntityFramework.xml
+G:\SoftUni\Databases Advanced - Entity Framework\CodeFirst(Advanced)\LocalStore\bin\Debug\EntityFramework.SqlServer.xml
+G:\SoftUni\Databases Advanced - Entity Framework\CodeFirst(Advanced)\LocalStore\obj\Debug\LocalStore.csprojResolveAssemblyReference.cache
+G:\SoftUni\Databases Advanced - Entity Framework\CodeFirst(Advanced)\LocalStore\obj\Debug\LocalStore.exe
+G:\SoftUni\Databases Advanced - Entity Framework\CodeFirst(Advanced)\LocalStore\obj\Debug\LocalStore.pdb

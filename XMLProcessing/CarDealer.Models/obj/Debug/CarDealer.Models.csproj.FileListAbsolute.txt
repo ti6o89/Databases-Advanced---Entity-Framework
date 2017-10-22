@@ -1,0 +1,4 @@
+G:\SoftUni\Databases Advanced - Entity Framework\XMLProcessing\CarDealer.Models\bin\Debug\CarDealer.Models.dll
+G:\SoftUni\Databases Advanced - Entity Framework\XMLProcessing\CarDealer.Models\bin\Debug\CarDealer.Models.pdb
+G:\SoftUni\Databases Advanced - Entity Framework\XMLProcessing\CarDealer.Models\obj\Debug\CarDealer.Models.dll
+G:\SoftUni\Databases Advanced - Entity Framework\XMLProcessing\CarDealer.Models\obj\Debug\CarDealer.Models.pdb

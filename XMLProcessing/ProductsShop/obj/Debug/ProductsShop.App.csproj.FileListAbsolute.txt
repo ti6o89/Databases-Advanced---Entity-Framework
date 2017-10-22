@@ -1,0 +1,14 @@
+G:\SoftUni\Databases Advanced - Entity Framework\XMLProcessing\ProductsShop\bin\Debug\ProductsShop.exe.config
+G:\SoftUni\Databases Advanced - Entity Framework\XMLProcessing\ProductsShop\bin\Debug\ProductsShop.exe
+G:\SoftUni\Databases Advanced - Entity Framework\XMLProcessing\ProductsShop\bin\Debug\ProductsShop.pdb
+G:\SoftUni\Databases Advanced - Entity Framework\XMLProcessing\ProductsShop\bin\Debug\EntityFramework.dll
+G:\SoftUni\Databases Advanced - Entity Framework\XMLProcessing\ProductsShop\bin\Debug\EntityFramework.SqlServer.dll
+G:\SoftUni\Databases Advanced - Entity Framework\XMLProcessing\ProductsShop\bin\Debug\ProductsShop.Data.dll
+G:\SoftUni\Databases Advanced - Entity Framework\XMLProcessing\ProductsShop\bin\Debug\ProductsShop.Models.dll
+G:\SoftUni\Databases Advanced - Entity Framework\XMLProcessing\ProductsShop\bin\Debug\ProductsShop.Data.pdb
+G:\SoftUni\Databases Advanced - Entity Framework\XMLProcessing\ProductsShop\bin\Debug\ProductsShop.Models.pdb
+G:\SoftUni\Databases Advanced - Entity Framework\XMLProcessing\ProductsShop\bin\Debug\EntityFramework.xml
+G:\SoftUni\Databases Advanced - Entity Framework\XMLProcessing\ProductsShop\bin\Debug\EntityFramework.SqlServer.xml
+G:\SoftUni\Databases Advanced - Entity Framework\XMLProcessing\ProductsShop\obj\Debug\ProductsShop.App.csprojResolveAssemblyReference.cache
+G:\SoftUni\Databases Advanced - Entity Framework\XMLProcessing\ProductsShop\obj\Debug\ProductsShop.exe
+G:\SoftUni\Databases Advanced - Entity Framework\XMLProcessing\ProductsShop\obj\Debug\ProductsShop.pdb

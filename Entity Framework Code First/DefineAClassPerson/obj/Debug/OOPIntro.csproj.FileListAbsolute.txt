@@ -1,0 +1,5 @@
+G:\SoftUni\Databases Advanced - Entity Framework\Entity Framework Code First\DefineAClassPerson\bin\Debug\DefineAClassPerson.exe.config
+G:\SoftUni\Databases Advanced - Entity Framework\Entity Framework Code First\DefineAClassPerson\obj\Debug\DefineAClassPerson.exe
+G:\SoftUni\Databases Advanced - Entity Framework\Entity Framework Code First\DefineAClassPerson\obj\Debug\DefineAClassPerson.pdb
+G:\SoftUni\Databases Advanced - Entity Framework\Entity Framework Code First\DefineAClassPerson\bin\Debug\DefineAClassPerson.exe
+G:\SoftUni\Databases Advanced - Entity Framework\Entity Framework Code First\DefineAClassPerson\bin\Debug\DefineAClassPerson.pdb

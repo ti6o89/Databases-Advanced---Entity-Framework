@@ -1,0 +1,6 @@
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_DB_Apps\Add_Minion\bin\Debug\Add_Minion.exe.config
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_DB_Apps\Add_Minion\bin\Debug\Add_Minion.exe
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_DB_Apps\Add_Minion\bin\Debug\Add_Minion.pdb
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_DB_Apps\Add_Minion\obj\Debug\Add_Minion.csprojResolveAssemblyReference.cache
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_DB_Apps\Add_Minion\obj\Debug\Add_Minion.exe
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_DB_Apps\Add_Minion\obj\Debug\Add_Minion.pdb

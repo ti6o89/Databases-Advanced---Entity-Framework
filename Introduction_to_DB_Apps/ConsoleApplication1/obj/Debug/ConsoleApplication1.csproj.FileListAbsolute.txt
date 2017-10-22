@@ -1,0 +1,1 @@
+G:\Introduction_to_DB_Apps\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config

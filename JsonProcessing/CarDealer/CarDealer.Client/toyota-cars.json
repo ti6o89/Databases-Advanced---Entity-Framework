@@ -1,0 +1,254 @@
+[
+  {
+    "Id": 117,
+    "Make": "Toyota",
+    "Model": "Camry Hybrid",
+    "TravelledDistance": 954775807,
+    "Parts": []
+  },
+  {
+    "Id": 112,
+    "Make": "Toyota",
+    "Model": "Camry Hybrid",
+    "TravelledDistance": 92275807,
+    "Parts": []
+  },
+  {
+    "Id": 134,
+    "Make": "Toyota",
+    "Model": "Camry Hybrid",
+    "TravelledDistance": 2143647,
+    "Parts": []
+  },
+  {
+    "Id": 136,
+    "Make": "Toyota",
+    "Model": "Camry Hybrid",
+    "TravelledDistance": 214647,
+    "Parts": []
+  },
+  {
+    "Id": 139,
+    "Make": "Toyota",
+    "Model": "Camry Hybrid",
+    "TravelledDistance": 214647,
+    "Parts": []
+  },
+  {
+    "Id": 109,
+    "Make": "Toyota",
+    "Model": "Corolla",
+    "TravelledDistance": 9223854775807,
+    "Parts": []
+  },
+  {
+    "Id": 113,
+    "Make": "Toyota",
+    "Model": "Corolla",
+    "TravelledDistance": 92235807,
+    "Parts": []
+  },
+  {
+    "Id": 115,
+    "Make": "Toyota",
+    "Model": "Corolla",
+    "TravelledDistance": 9223807,
+    "Parts": []
+  },
+  {
+    "Id": 122,
+    "Make": "Toyota",
+    "Model": "Corolla",
+    "TravelledDistance": 975807,
+    "Parts": []
+  },
+  {
+    "Id": 124,
+    "Make": "Toyota",
+    "Model": "Corolla",
+    "TravelledDistance": 21477,
+    "Parts": []
+  },
+  {
+    "Id": 120,
+    "Make": "Toyota",
+    "Model": "Corolla",
+    "TravelledDistance": 2147,
+    "Parts": []
+  },
+  {
+    "Id": 130,
+    "Make": "Toyota",
+    "Model": "Prius",
+    "TravelledDistance": 9223354775807,
+    "Parts": []
+  },
+  {
+    "Id": 111,
+    "Make": "Toyota",
+    "Model": "Prius",
+    "TravelledDistance": 922337203685,
+    "Parts": []
+  },
+  {
+    "Id": 132,
+    "Make": "Toyota",
+    "Model": "Prius",
+    "TravelledDistance": 92233775807,
+    "Parts": []
+  },
+  {
+    "Id": 128,
+    "Make": "Toyota",
+    "Model": "Prius",
+    "TravelledDistance": 92233775807,
+    "Parts": []
+  },
+  {
+    "Id": 104,
+    "Make": "Toyota",
+    "Model": "Prius",
+    "TravelledDistance": 9223372037,
+    "Parts": []
+  },
+  {
+    "Id": 135,
+    "Make": "Toyota",
+    "Model": "Prius",
+    "TravelledDistance": 922337807,
+    "Parts": []
+  },
+  {
+    "Id": 108,
+    "Make": "Toyota",
+    "Model": "Prius",
+    "TravelledDistance": 922337207,
+    "Parts": []
+  },
+  {
+    "Id": 137,
+    "Make": "Toyota",
+    "Model": "Prius",
+    "TravelledDistance": 922335807,
+    "Parts": []
+  },
+  {
+    "Id": 118,
+    "Make": "Toyota",
+    "Model": "Prius",
+    "TravelledDistance": 925807,
+    "Parts": []
+  },
+  {
+    "Id": 125,
+    "Make": "Toyota",
+    "Model": "Prius",
+    "TravelledDistance": 283647,
+    "Parts": []
+  },
+  {
+    "Id": 106,
+    "Make": "Toyota",
+    "Model": "Prius",
+    "TravelledDistance": 214747,
+    "Parts": []
+  },
+  {
+    "Id": 121,
+    "Make": "Toyota",
+    "Model": "Prius",
+    "TravelledDistance": 21477,
+    "Parts": []
+  },
+  {
+    "Id": 114,
+    "Make": "Toyota",
+    "Model": "Prius",
+    "TravelledDistance": 21477,
+    "Parts": []
+  },
+  {
+    "Id": 105,
+    "Make": "Toyota",
+    "Model": "Tacoma",
+    "TravelledDistance": 96854775807,
+    "Parts": []
+  },
+  {
+    "Id": 119,
+    "Make": "Toyota",
+    "Model": "Tacoma",
+    "TravelledDistance": 922337807,
+    "Parts": []
+  },
+  {
+    "Id": 107,
+    "Make": "Toyota",
+    "Model": "Tacoma",
+    "TravelledDistance": 94775807,
+    "Parts": []
+  },
+  {
+    "Id": 138,
+    "Make": "Toyota",
+    "Model": "Tacoma",
+    "TravelledDistance": 21474647,
+    "Parts": []
+  },
+  {
+    "Id": 116,
+    "Make": "Toyota",
+    "Model": "Tacoma",
+    "TravelledDistance": 9225807,
+    "Parts": []
+  },
+  {
+    "Id": 133,
+    "Make": "Toyota",
+    "Model": "Tacoma",
+    "TravelledDistance": 2147,
+    "Parts": []
+  },
+  {
+    "Id": 126,
+    "Make": "Toyota",
+    "Model": "Tacoma",
+    "TravelledDistance": 927,
+    "Parts": []
+  },
+  {
+    "Id": 129,
+    "Make": "Toyota",
+    "Model": "Tacoma",
+    "TravelledDistance": 247,
+    "Parts": []
+  },
+  {
+    "Id": 123,
+    "Make": "Toyota",
+    "Model": "Yaris",
+    "TravelledDistance": 94775807,
+    "Parts": []
+  },
+  {
+    "Id": 131,
+    "Make": "Toyota",
+    "Model": "Yaris",
+    "TravelledDistance": 21477,
+    "Parts": []
+  },
+  {
+    "Id": 110,
+    "Make": "Toyota",
+    "Model": "Yaris",
+    "TravelledDistance": 21477,
+    "Parts": []
+  },
+  {
+    "Id": 127,
+    "Make": "Toyota",
+    "Model": "Yaris",
+    "TravelledDistance": 9207,
+    "Parts": []
+  }
+]

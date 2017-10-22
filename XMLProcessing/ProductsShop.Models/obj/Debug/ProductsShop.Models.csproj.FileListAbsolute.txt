@@ -1,0 +1,5 @@
+G:\SoftUni\Databases Advanced - Entity Framework\XMLProcessing\ProductsShop.Models\bin\Debug\ProductsShop.Models.dll
+G:\SoftUni\Databases Advanced - Entity Framework\XMLProcessing\ProductsShop.Models\bin\Debug\ProductsShop.Models.pdb
+G:\SoftUni\Databases Advanced - Entity Framework\XMLProcessing\ProductsShop.Models\obj\Debug\ProductsShop.Models.csprojResolveAssemblyReference.cache
+G:\SoftUni\Databases Advanced - Entity Framework\XMLProcessing\ProductsShop.Models\obj\Debug\ProductsShop.Models.dll
+G:\SoftUni\Databases Advanced - Entity Framework\XMLProcessing\ProductsShop.Models\obj\Debug\ProductsShop.Models.pdb

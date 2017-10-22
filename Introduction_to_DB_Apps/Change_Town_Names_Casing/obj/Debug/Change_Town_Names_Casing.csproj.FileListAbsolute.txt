@@ -1,0 +1,6 @@
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_DB_Apps\Change_Town_Names_Casing\bin\Debug\Change_Town_Names_Casing.exe.config
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_DB_Apps\Change_Town_Names_Casing\bin\Debug\Change_Town_Names_Casing.exe
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_DB_Apps\Change_Town_Names_Casing\bin\Debug\Change_Town_Names_Casing.pdb
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_DB_Apps\Change_Town_Names_Casing\obj\Debug\Change_Town_Names_Casing.csprojResolveAssemblyReference.cache
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_DB_Apps\Change_Town_Names_Casing\obj\Debug\Change_Town_Names_Casing.exe
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_DB_Apps\Change_Town_Names_Casing\obj\Debug\Change_Town_Names_Casing.pdb

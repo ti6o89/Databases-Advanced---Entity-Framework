@@ -1,0 +1,13 @@
+G:\SoftUni\Databases Advanced - Entity Framework\BookShopSystem\Gringotts\bin\Debug\Gringotts.exe.config
+G:\SoftUni\Databases Advanced - Entity Framework\BookShopSystem\Gringotts\bin\Debug\Gringotts.exe
+G:\SoftUni\Databases Advanced - Entity Framework\BookShopSystem\Gringotts\bin\Debug\Gringotts.pdb
+G:\SoftUni\Databases Advanced - Entity Framework\BookShopSystem\Gringotts\bin\Debug\EntityFramework.dll
+G:\SoftUni\Databases Advanced - Entity Framework\BookShopSystem\Gringotts\bin\Debug\EntityFramework.SqlServer.dll
+G:\SoftUni\Databases Advanced - Entity Framework\BookShopSystem\Gringotts\bin\Debug\EntityFramework.xml
+G:\SoftUni\Databases Advanced - Entity Framework\BookShopSystem\Gringotts\bin\Debug\EntityFramework.SqlServer.xml
+G:\SoftUni\Databases Advanced - Entity Framework\BookShopSystem\Gringotts\obj\Debug\Gringotts.csprojResolveAssemblyReference.cache
+G:\SoftUni\Databases Advanced - Entity Framework\BookShopSystem\Gringotts\obj\Debug\Gringotts.exe
+G:\SoftUni\Databases Advanced - Entity Framework\BookShopSystem\Gringotts\obj\Debug\Gringotts.pdb
+E:\SoftUni\Databases Advanced - Entity Framework\AdvancedQuerying\Gringotts\bin\Debug\Gringotts.exe.config
+E:\SoftUni\Databases Advanced - Entity Framework\AdvancedQuerying\Gringotts\obj\Debug\Gringotts.exe
+E:\SoftUni\Databases Advanced - Entity Framework\AdvancedQuerying\Gringotts\obj\Debug\Gringotts.pdb

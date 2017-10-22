@@ -1,0 +1,13 @@
+G:\SoftUni\Databases Advanced - Entity Framework\EntityFrameworkRelations\StudentSystem\bin\Debug\StudentSystem.exe.config
+G:\SoftUni\Databases Advanced - Entity Framework\EntityFrameworkRelations\StudentSystem\bin\Debug\StudentSystem.exe
+G:\SoftUni\Databases Advanced - Entity Framework\EntityFrameworkRelations\StudentSystem\bin\Debug\StudentSystem.pdb
+G:\SoftUni\Databases Advanced - Entity Framework\EntityFrameworkRelations\StudentSystem\bin\Debug\EntityFramework.dll
+G:\SoftUni\Databases Advanced - Entity Framework\EntityFrameworkRelations\StudentSystem\bin\Debug\EntityFramework.SqlServer.dll
+G:\SoftUni\Databases Advanced - Entity Framework\EntityFrameworkRelations\StudentSystem\bin\Debug\EntityFramework.xml
+G:\SoftUni\Databases Advanced - Entity Framework\EntityFrameworkRelations\StudentSystem\bin\Debug\EntityFramework.SqlServer.xml
+G:\SoftUni\Databases Advanced - Entity Framework\EntityFrameworkRelations\StudentSystem\obj\Debug\StudentSystem.csprojResolveAssemblyReference.cache
+G:\SoftUni\Databases Advanced - Entity Framework\EntityFrameworkRelations\StudentSystem\obj\Debug\StudentSystem.exe
+G:\SoftUni\Databases Advanced - Entity Framework\EntityFrameworkRelations\StudentSystem\obj\Debug\StudentSystem.pdb
+G:\SoftUni\Databases Advanced - Entity Framework\EntityFrameworkRelations\StudentSystem\obj\Debug\StudentSystem.Migrations.AddMigrationEmptyMigration.resources
+G:\SoftUni\Databases Advanced - Entity Framework\EntityFrameworkRelations\StudentSystem\obj\Debug\StudentSystem.csproj.GenerateResource.Cache
+G:\SoftUni\Databases Advanced - Entity Framework\EntityFrameworkRelations\StudentSystem\obj\Debug\StudentSystem.Migrations.AddLicense.resources

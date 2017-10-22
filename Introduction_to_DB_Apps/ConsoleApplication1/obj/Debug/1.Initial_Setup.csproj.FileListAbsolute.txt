@@ -1,0 +1,12 @@
+G:\Introduction_to_DB_Apps\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+G:\Introduction_to_DB_Apps\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+G:\Introduction_to_DB_Apps\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+G:\Introduction_to_DB_Apps\ConsoleApplication1\obj\Debug\1.Initial_Setup.csprojResolveAssemblyReference.cache
+G:\Introduction_to_DB_Apps\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+G:\Introduction_to_DB_Apps\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_DB_Apps\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_DB_Apps\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_DB_Apps\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_DB_Apps\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_DB_Apps\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_DB_Apps\ConsoleApplication1\obj\Debug\1.Initial_Setup.csprojResolveAssemblyReference.cache

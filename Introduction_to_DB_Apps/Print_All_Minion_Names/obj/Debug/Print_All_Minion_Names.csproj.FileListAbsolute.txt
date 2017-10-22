@@ -1,0 +1,6 @@
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_DB_Apps\Print_All_Minion_Names\bin\Debug\Print_All_Minion_Names.exe.config
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_DB_Apps\Print_All_Minion_Names\bin\Debug\Print_All_Minion_Names.exe
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_DB_Apps\Print_All_Minion_Names\bin\Debug\Print_All_Minion_Names.pdb
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_DB_Apps\Print_All_Minion_Names\obj\Debug\Print_All_Minion_Names.csprojResolveAssemblyReference.cache
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_DB_Apps\Print_All_Minion_Names\obj\Debug\Print_All_Minion_Names.exe
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_DB_Apps\Print_All_Minion_Names\obj\Debug\Print_All_Minion_Names.pdb

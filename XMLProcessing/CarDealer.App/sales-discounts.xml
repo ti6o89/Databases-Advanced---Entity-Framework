@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sales>
+  <sale>
+    <car make="Ferrari" model="Daytona" travelled-distance="213647" />
+    <customer-name>Hai Everton</customer-name>
+    <discount>0.10</discount>
+    <price>3872.44</price>
+    <price-with-disocount>3485.1960</price-with-disocount>
+  </sale>
+  <sale>
+    <car make="Chevy" model="Camaro" travelled-distance="92233854775807" />
+    <customer-name>Donnetta Soliz</customer-name>
+    <discount>0.00</discount>
+    <price>2882.94</price>
+    <price-with-disocount>2882.9400</price-with-disocount>
+  </sale>
+  <sale>
+    <car make="Alfa Romeo" model="75" travelled-distance="72036854775807" />
+    <customer-name>Daniele Zarate</customer-name>
+    <discount>0.05</discount>
+    <price>5754.54</price>
+    <price-with-disocount>5466.8130</price-with-disocount>
+  </sale>
+  <sale>
+    <car make="Citroen" model="Elysée" travelled-distance="23336854775" />
+    <customer-name>Francis Mckim</customer-name>
+    <discount>0.00</discount>
+    <price>1573.47</price>
+    <price-with-disocount>1573.4700</price-with-disocount>
+  </sale>
+  <sale>
+    <car make="BMW" model="F20" travelled-distance="83647" />
+    <customer-name>Rico Peer</customer-name>
+    <discount>0.40</discount>
+    <price>4653.13</price>
+    <price-with-disocount>2791.8780</price-with-disocount>
+  </sale>
+  <sale>
+    <car make="BMW" model="M6 E63" travelled-distance="2147" />
+    <customer-name>Natalie Poli</customer-name>
+    <discount>0.40</discount>
+    <price>5013.32</price>
+    <price-with-disocount>3007.9920</price-with-disocount>
+  </sale>
+  <sale>
+    <car make="Dacia" model="Sandero" travelled-distance="2147647" />
+    <customer-name>Cinthia Lasala</customer-name>
+    <discount>0.15</discount>
+    <price>1939.44</price>
+    <price-with-disocount>1648.5240</price-with-disocount>
+  </sale>
+  <sale>
+    <car make="Citroen" model="C5" travelled-distance="922337204775807" />
+    <customer-name>Yvonne Mccalla</customer-name>
+    <discount>0.20</discount>
+    <price>1223.73</price>
+    <price-with-disocount>978.9840</price-with-disocount>
+  </sale>
+  <sale>
+    <car make="Citroen" model="Berlingo" travelled-distance="9223354775807" />
+    <customer-name>Jimmy Grossi</customer-name>
+    <discount>0.00</discount>
+    <price>2693.09</price>
+    <price-with-disocount>2693.0900</price-with-disocount>
+  </sale>
+  <sale>
+    <car make="Mercedes" model="W210" travelled-distance="2147483647" />
+    <customer-name>Cinthia Lasala</customer-name>
+    <discount>0.30</discount>
+    <price>2640.23</price>
+    <price-with-disocount>1848.1610</price-with-disocount>
+  </sale>
+  <sale>
+    <car make="Dacia" model="Sandero" travelled-distance="2147647" />
+    <customer-name>Cinthia Lasala</customer-name>
+    <discount>0.05</discount>
+    <price>1939.44</price>
+    <price-with-disocount>1842.4680</price-with-disocount>
+  </sale>
+  <sale>
+    <car make="Ford" model="Pinto" travelled-distance="9854775807" />
+    <customer-name>Marcelle Griego</customer-name>
+    <discount>0.00</discount>
+    <price>2790.01</price>
+    <price-with-disocount>2790.0100</price-with-disocount>
+  </sale>
+  <sale>
+    <car make="Great Wall" model="H2" travelled-distance="9236854775807" />
+    <customer-name>Louann Holzworth</customer-name>
+    <discount>0.40</discount>
+    <price>2921.44</price>
+    <price-with-disocount>1752.8640</price-with-disocount>
+  </sale>
+  <sale>
+    <car make="Seat" model="Toledo" travelled-distance="2147647" />
+    <customer-name>Marcelle Griego</customer-name>
+    <discount>0.30</discount>
+    <price>3376.04</price>
+    <price-with-disocount>2363.2280</price-with-disocount>
+  </sale>
+  <sale>
+    <car make="Ford" model="Fiesta" travelled-distance="922375807" />
+    <customer-name>Sylvie Mcelravy</customer-name>
+    <discount>0.10</discount>
+    <price>6282.69</price>
+    <price-with-disocount>5654.4210</price-with-disocount>
+  </sale>
+  <sale>
+    <car make="Alfa Romeo" model="156" travelled-distance="92036854775807" />
+    <customer-name>Cinthia Lasala</customer-name>
+    <discount>0.40</discount>
+    <price>9574.93</price>
+    <price-with-disocount>5744.9580</price-with-disocount>
+  </sale>
+  <sale>
+    <car make="Chevy" model="Malibu" travelled-distance="92233854775807" />
+    <customer-name>Brett Brickley</customer-name>
+    <discount>0.20</discount>
+    <price>1361.50</price>
+    <price-with-disocount>1089.2000</price-with-disocount>
+  </sale>
+</sales>

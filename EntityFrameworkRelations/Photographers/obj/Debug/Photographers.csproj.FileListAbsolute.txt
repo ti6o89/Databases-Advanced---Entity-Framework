@@ -1,0 +1,14 @@
+G:\SoftUni\Databases Advanced - Entity Framework\EntityFrameworkRelations\Photographers\bin\Debug\Photographers.exe.config
+G:\SoftUni\Databases Advanced - Entity Framework\EntityFrameworkRelations\Photographers\bin\Debug\Photographers.exe
+G:\SoftUni\Databases Advanced - Entity Framework\EntityFrameworkRelations\Photographers\bin\Debug\Photographers.pdb
+G:\SoftUni\Databases Advanced - Entity Framework\EntityFrameworkRelations\Photographers\bin\Debug\EntityFramework.dll
+G:\SoftUni\Databases Advanced - Entity Framework\EntityFrameworkRelations\Photographers\bin\Debug\EntityFramework.SqlServer.dll
+G:\SoftUni\Databases Advanced - Entity Framework\EntityFrameworkRelations\Photographers\bin\Debug\EntityFramework.xml
+G:\SoftUni\Databases Advanced - Entity Framework\EntityFrameworkRelations\Photographers\bin\Debug\EntityFramework.SqlServer.xml
+G:\SoftUni\Databases Advanced - Entity Framework\EntityFrameworkRelations\Photographers\obj\Debug\Photographers.exe
+G:\SoftUni\Databases Advanced - Entity Framework\EntityFrameworkRelations\Photographers\obj\Debug\Photographers.pdb
+G:\SoftUni\Databases Advanced - Entity Framework\EntityFrameworkRelations\Photographers\obj\Debug\Photographers.csprojResolveAssemblyReference.cache
+G:\SoftUni\Databases Advanced - Entity Framework\EntityFrameworkRelations\Photographers\obj\Debug\Photographers.Migrations.InitialCreate.resources
+G:\SoftUni\Databases Advanced - Entity Framework\EntityFrameworkRelations\Photographers\obj\Debug\Photographers.csproj.GenerateResource.Cache
+G:\SoftUni\Databases Advanced - Entity Framework\EntityFrameworkRelations\Photographers\obj\Debug\Photographers.Migrations.AddTags.resources
+G:\SoftUni\Databases Advanced - Entity Framework\EntityFrameworkRelations\Photographers\obj\Debug\Photographers.Migrations.AddOwnersToAlbums.resources

@@ -1,0 +1,10 @@
+G:\SoftUni\Databases Advanced - Entity Framework\Entity Framework Code First\CreateUser\bin\Debug\CreateUser.exe.config
+G:\SoftUni\Databases Advanced - Entity Framework\Entity Framework Code First\CreateUser\obj\Debug\CreateUser.csprojResolveAssemblyReference.cache
+G:\SoftUni\Databases Advanced - Entity Framework\Entity Framework Code First\CreateUser\bin\Debug\CreateUser.exe
+G:\SoftUni\Databases Advanced - Entity Framework\Entity Framework Code First\CreateUser\bin\Debug\CreateUser.pdb
+G:\SoftUni\Databases Advanced - Entity Framework\Entity Framework Code First\CreateUser\bin\Debug\EntityFramework.dll
+G:\SoftUni\Databases Advanced - Entity Framework\Entity Framework Code First\CreateUser\bin\Debug\EntityFramework.SqlServer.dll
+G:\SoftUni\Databases Advanced - Entity Framework\Entity Framework Code First\CreateUser\bin\Debug\EntityFramework.xml
+G:\SoftUni\Databases Advanced - Entity Framework\Entity Framework Code First\CreateUser\bin\Debug\EntityFramework.SqlServer.xml
+G:\SoftUni\Databases Advanced - Entity Framework\Entity Framework Code First\CreateUser\obj\Debug\CreateUser.exe
+G:\SoftUni\Databases Advanced - Entity Framework\Entity Framework Code First\CreateUser\obj\Debug\CreateUser.pdb

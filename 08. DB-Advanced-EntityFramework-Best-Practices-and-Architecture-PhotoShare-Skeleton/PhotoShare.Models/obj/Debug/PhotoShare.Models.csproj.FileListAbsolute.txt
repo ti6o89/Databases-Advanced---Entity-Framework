@@ -1,0 +1,5 @@
+G:\SoftUni\Databases Advanced - Entity Framework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Models\bin\Debug\PhotoShare.Models.dll
+G:\SoftUni\Databases Advanced - Entity Framework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Models\bin\Debug\PhotoShare.Models.pdb
+G:\SoftUni\Databases Advanced - Entity Framework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Models\obj\Debug\PhotoShare.Models.csprojResolveAssemblyReference.cache
+G:\SoftUni\Databases Advanced - Entity Framework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Models\obj\Debug\PhotoShare.Models.dll
+G:\SoftUni\Databases Advanced - Entity Framework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Models\obj\Debug\PhotoShare.Models.pdb

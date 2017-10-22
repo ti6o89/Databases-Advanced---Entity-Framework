@@ -1,0 +1,17 @@
+G:\SoftUni\Databases Advanced - Entity Framework\XMLProcessing\CarDealer.App\bin\Debug\CarDealer.App.exe.config
+G:\SoftUni\Databases Advanced - Entity Framework\XMLProcessing\CarDealer.App\bin\Debug\CarDealer.App.exe
+G:\SoftUni\Databases Advanced - Entity Framework\XMLProcessing\CarDealer.App\bin\Debug\CarDealer.App.pdb
+G:\SoftUni\Databases Advanced - Entity Framework\XMLProcessing\CarDealer.App\bin\Debug\CarDealer.Data.dll
+G:\SoftUni\Databases Advanced - Entity Framework\XMLProcessing\CarDealer.App\bin\Debug\CarDealer.Models.dll
+G:\SoftUni\Databases Advanced - Entity Framework\XMLProcessing\CarDealer.App\bin\Debug\EntityFramework.dll
+G:\SoftUni\Databases Advanced - Entity Framework\XMLProcessing\CarDealer.App\bin\Debug\EntityFramework.SqlServer.dll
+G:\SoftUni\Databases Advanced - Entity Framework\XMLProcessing\CarDealer.App\bin\Debug\CarDealer.Data.pdb
+G:\SoftUni\Databases Advanced - Entity Framework\XMLProcessing\CarDealer.App\bin\Debug\CarDealer.Models.pdb
+G:\SoftUni\Databases Advanced - Entity Framework\XMLProcessing\CarDealer.App\bin\Debug\EntityFramework.xml
+G:\SoftUni\Databases Advanced - Entity Framework\XMLProcessing\CarDealer.App\bin\Debug\EntityFramework.SqlServer.xml
+G:\SoftUni\Databases Advanced - Entity Framework\XMLProcessing\CarDealer.App\obj\Debug\CarDealer.App.csprojResolveAssemblyReference.cache
+G:\SoftUni\Databases Advanced - Entity Framework\XMLProcessing\CarDealer.App\obj\Debug\CarDealer.App.exe
+G:\SoftUni\Databases Advanced - Entity Framework\XMLProcessing\CarDealer.App\obj\Debug\CarDealer.App.pdb
+E:\SoftUni\Databases Advanced - Entity Framework\XMLProcessing\CarDealer.App\bin\Debug\CarDealer.App.exe.config
+E:\SoftUni\Databases Advanced - Entity Framework\XMLProcessing\CarDealer.App\obj\Debug\CarDealer.App.exe
+E:\SoftUni\Databases Advanced - Entity Framework\XMLProcessing\CarDealer.App\obj\Debug\CarDealer.App.pdb

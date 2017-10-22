@@ -1,0 +1,10 @@
+G:\SoftUni\Databases Advanced - Entity Framework\CarDealer\CarDealer.Models\bin\Debug\CarDealer.Models.dll.config
+G:\SoftUni\Databases Advanced - Entity Framework\CarDealer\CarDealer.Models\bin\Debug\CarDealer.Models.dll
+G:\SoftUni\Databases Advanced - Entity Framework\CarDealer\CarDealer.Models\bin\Debug\CarDealer.Models.pdb
+G:\SoftUni\Databases Advanced - Entity Framework\CarDealer\CarDealer.Models\bin\Debug\EntityFramework.dll
+G:\SoftUni\Databases Advanced - Entity Framework\CarDealer\CarDealer.Models\bin\Debug\EntityFramework.SqlServer.dll
+G:\SoftUni\Databases Advanced - Entity Framework\CarDealer\CarDealer.Models\bin\Debug\EntityFramework.xml
+G:\SoftUni\Databases Advanced - Entity Framework\CarDealer\CarDealer.Models\bin\Debug\EntityFramework.SqlServer.xml
+G:\SoftUni\Databases Advanced - Entity Framework\CarDealer\CarDealer.Models\obj\Debug\CarDealer.Models.csprojResolveAssemblyReference.cache
+G:\SoftUni\Databases Advanced - Entity Framework\CarDealer\CarDealer.Models\obj\Debug\CarDealer.Models.dll
+G:\SoftUni\Databases Advanced - Entity Framework\CarDealer\CarDealer.Models\obj\Debug\CarDealer.Models.pdb

@@ -1,0 +1,6 @@
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_DB_Apps\Increase_Minions_Age\bin\Debug\Increase_Minions_Age.exe.config
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_DB_Apps\Increase_Minions_Age\bin\Debug\Increase_Minions_Age.exe
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_DB_Apps\Increase_Minions_Age\bin\Debug\Increase_Minions_Age.pdb
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_DB_Apps\Increase_Minions_Age\obj\Debug\Increase_Minions_Age.csprojResolveAssemblyReference.cache
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_DB_Apps\Increase_Minions_Age\obj\Debug\Increase_Minions_Age.exe
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_DB_Apps\Increase_Minions_Age\obj\Debug\Increase_Minions_Age.pdb

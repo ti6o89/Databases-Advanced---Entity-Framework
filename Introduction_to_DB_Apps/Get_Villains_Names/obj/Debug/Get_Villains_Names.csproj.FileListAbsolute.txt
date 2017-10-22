@@ -1,0 +1,6 @@
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_DB_Apps\Get_Villains_Names\bin\Debug\Get_Villains_Names.exe.config
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_DB_Apps\Get_Villains_Names\bin\Debug\Get_Villains_Names.exe
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_DB_Apps\Get_Villains_Names\bin\Debug\Get_Villains_Names.pdb
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_DB_Apps\Get_Villains_Names\obj\Debug\Get_Villains_Names.csprojResolveAssemblyReference.cache
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_DB_Apps\Get_Villains_Names\obj\Debug\Get_Villains_Names.exe
+G:\SoftUni\Databases Advanced - Entity Framework\Introduction_to_DB_Apps\Get_Villains_Names\obj\Debug\Get_Villains_Names.pdb
